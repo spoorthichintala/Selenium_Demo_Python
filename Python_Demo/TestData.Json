@@ -1,0 +1,16 @@
+{
+    "Login_details": [
+        {
+            "uname": "Admin",
+            "upass": "admin123"
+        },
+        {
+            "uname": "Admin",
+            "upass": "admin123"
+        },
+        {
+            "uname": "selenium",
+            "upass": "Dixit"
+        }
+    ]
+}
